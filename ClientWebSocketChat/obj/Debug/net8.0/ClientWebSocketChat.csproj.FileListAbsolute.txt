@@ -1,0 +1,14 @@
+C:\Users\Angelo\source\repos\ClientWebSocketChat\ClientWebSocketChat\bin\Debug\net8.0\ClientWebSocketChat.exe
+C:\Users\Angelo\source\repos\ClientWebSocketChat\ClientWebSocketChat\bin\Debug\net8.0\ClientWebSocketChat.deps.json
+C:\Users\Angelo\source\repos\ClientWebSocketChat\ClientWebSocketChat\bin\Debug\net8.0\ClientWebSocketChat.runtimeconfig.json
+C:\Users\Angelo\source\repos\ClientWebSocketChat\ClientWebSocketChat\bin\Debug\net8.0\ClientWebSocketChat.dll
+C:\Users\Angelo\source\repos\ClientWebSocketChat\ClientWebSocketChat\bin\Debug\net8.0\ClientWebSocketChat.pdb
+C:\Users\Angelo\source\repos\ClientWebSocketChat\ClientWebSocketChat\obj\Debug\net8.0\ClientWebSocketChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo\source\repos\ClientWebSocketChat\ClientWebSocketChat\obj\Debug\net8.0\ClientWebSocketChat.AssemblyInfoInputs.cache
+C:\Users\Angelo\source\repos\ClientWebSocketChat\ClientWebSocketChat\obj\Debug\net8.0\ClientWebSocketChat.AssemblyInfo.cs
+C:\Users\Angelo\source\repos\ClientWebSocketChat\ClientWebSocketChat\obj\Debug\net8.0\ClientWebSocketChat.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\source\repos\ClientWebSocketChat\ClientWebSocketChat\obj\Debug\net8.0\ClientWebSocketChat.dll
+C:\Users\Angelo\source\repos\ClientWebSocketChat\ClientWebSocketChat\obj\Debug\net8.0\refint\ClientWebSocketChat.dll
+C:\Users\Angelo\source\repos\ClientWebSocketChat\ClientWebSocketChat\obj\Debug\net8.0\ClientWebSocketChat.pdb
+C:\Users\Angelo\source\repos\ClientWebSocketChat\ClientWebSocketChat\obj\Debug\net8.0\ClientWebSocketChat.genruntimeconfig.cache
+C:\Users\Angelo\source\repos\ClientWebSocketChat\ClientWebSocketChat\obj\Debug\net8.0\ref\ClientWebSocketChat.dll
